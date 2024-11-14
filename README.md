@@ -1,1 +1,1 @@
-# Test av git med fork, merge etc.
+# Test av git med fork, pull (merge?) etc.
