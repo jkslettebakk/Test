@@ -1,1 +1,1 @@
-# Test av git med fork, pull (= GitLab merge) etc.
+# Test av git med branch, pull (= GitLab merge) etc.
